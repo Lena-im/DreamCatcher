@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="dream_title_hint">Enter a title for the dream.</string>
+    <string name="dream_title_label">TITLE</string>
+    <string name="dream_entries_label">ENTRIES</string>
+    <string name="dream_fulfilled_label">Fulfilled</string>
+    <string name="dream_deferred_label">Deferred</string>
+    <string name="dream_item_title">Dream Title</string>
+    <string name="dream_item_date">Date</string>
+    <string name="dream_entry_0_button">Dream Entry</string>
+    <string name="dream_entry_1_button">Dream Entry</string>
+    <string name="dream_entry_2_button">Dream Entry</string>
+    <string name="dream_entry_3_button">Dream Entry</string>
+    <string name="dream_entry_4_button">Dream Entry</string>
+    <string name="add_dream">Add Dream</string>
+    <string name="add_reflection">Add Reflection</string>
+    <string name="reflection_text">Enter reflection</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="dream_entry_button">Button</string>
+    <string name="dream_report_date">The dream was conceived on %s.</string>
+    <string name="dream_report_fulfilled">The dream is fulfilled.</string>
+    <string name="dream_report_deferred">The dream is deferred.</string>
+    <string name="dream_report_reflections">Dream Reflections:</string>
+    <string name="share_dream">Share Dream</string>
+    <string name="take_dream_photo">Take Dream Photo</string>
+    <string name="send_dream_report">Send dream report via</string>
+    <string name="dream_report_subject">DreamIntent Dream Report</string>
+</resources>
